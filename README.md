@@ -1,5 +1,4 @@
-# Image-Processing-on-Rectangular-Layouts
-Image Processing on Rectangular Layouts using Matlab
+## Image Processing on Rectangular Layouts using Matlab
 
 Image Processing problems involve the recognition of certain features from the image provided by the user. This project involves the recognition of the rectangular layout from the image and detection of the horizontal and vertical edges from the layout. The Image Processing algorithms are implemented using the MATLAB Software and its image processing tools.
 
