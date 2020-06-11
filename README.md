@@ -5,9 +5,12 @@ Image Processing problems involve the recognition of certain features from the i
 The objective is to obtain the encoded matrix from the rectangular layout, depicting the indexing of the rectangles and their adjacency relations using the grids formed by the vertical and horizontal lines and then obtain the dimensions of all the rectangles. The dimensions of the rectangles will be used to find their aspect ratio which can be used in many different problems. 
 
 For the Recatangular layout here:
-
 ![layout](https://user-images.githubusercontent.com/40790714/84437156-2c5fe800-ac52-11ea-9622-87089680fefd.png)
 
+We get these Vertical and Horizontal lines:
+
+![hor](https://user-images.githubusercontent.com/40790714/84437421-94163300-ac52-11ea-8f7b-613e3060818c.png)
+![ver](https://user-images.githubusercontent.com/40790714/84437428-96788d00-ac52-11ea-9d3f-64f6089f246a.png)
 
 
 To get a better perspective of the Project, go through the Image_Processing_Rectangular_Layouts Doc file in this repository.
