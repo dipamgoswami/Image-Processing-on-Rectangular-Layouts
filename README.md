@@ -20,4 +20,6 @@ The objective is to obtain the encoded matrix from the rectangular layout, depic
      1     2    11    11    11    11    11
      1    12    12    12    12    12    12
 
+The encoded matrix gives the adjacency relations between the rectangular blocks in the layout.
+
 To get a better perspective of the Project, go through the Image_Processing_Rectangular_Layouts Doc file in this repository.
